@@ -158,21 +158,10 @@ O sistema foi testado por **5 usuários reais** conforme requisito do PIT-II.
 
 ## Autor
 
-**Matheus Eduardo Macarini**
-- RGM: 29584043
-- GitHub: [@matheronn](https://github.com/matheronn)
+**Fuvia Mara**
+- RGM: 34758186
+- GitHub: [@fuviasoares](https://github.com/fuviasoares)
 - Projeto: PIT-II - Sistemas de Informação
-
----
-
-## Agradecimentos
-
-- Testadores que contribuíram com feedback valioso:
-  - Karen Abib
-  - Alisson de Morais
-  - Samuel de Oliveira Arcolino Sales
-  - Mariane Vergara Okumoto
-  - Marcos Aurelio Macarini
 
 ---
 
